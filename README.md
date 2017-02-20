@@ -13,11 +13,14 @@ You can get a plain dictionary of English words at [here](https://github.com/Sum
 
 ##### Explaining the "dot-letter pattern".
 In a dot-letter pattern, dot(".") represents an unknown letter.
+
 So if you have a word ```??ple??ed```(appleseed) to guess, the corresponding pattern will be ```"..ple..ed"```.
 
 ##### Explaining the "letters in pool".
 Let's use the word ```??ple??ed```(appleseed) mentioned above.
+
 If you have ```a, p, e, x, x, x, s, e, d``` as candidates to fill in the blanks, the letters in pool will be ```"apexxxsed"```.
+
 Duplicated letters are accepted. As you can see, we have got 3 x's and 2 e's in this example. 
 
 ### Examples
