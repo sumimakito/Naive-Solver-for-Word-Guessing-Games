@@ -9,7 +9,7 @@ The solver may be naïve. It deserves a try, though.
 chmod +x ./guess_word.py 
 ./guess_word.py <dictionary> <dot-letter pattern> <letters in pool(candidates)>
 ```
-You can get a plain dictionary of English words at [here](https://github.com/dwyl/english-words).
+You can get a plain dictionary of English words at [here](https://github.com/SumiMakito/english-words)(forked from dwyl/english-words).
 
 ##### Explaining the "dot-letter pattern".
 In a dot-letter pattern, dot(".") represents an unknown letter.
