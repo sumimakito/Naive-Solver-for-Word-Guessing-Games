@@ -40,6 +40,7 @@ Result: 2/354985
 Performing strict match ...
 Refined result: 2/2
 	apple 	pepla
+	^ the word we want (this line is just an annotation)
 ```
 
 ##### Guessing the word "b?si?e??" (with candidates: b, r, s, r, q, u, y, e, n, s)
@@ -62,9 +63,10 @@ Result: 1/354985
 Performing strict match ...
 Refined result: 1/1
 	business 
+	^ the word we want (this line is just an annotation)
 ```
 
-### Could you buy me a cup of cappuccino?
+### Would you like to buy me a cup of cappuccino?
 PayPal | Alipay
 ----|----
 [PayPal](https://www.paypal.me/makito) | [Alipay](https://qr.alipay.com/a6x02021re1jk4ftcymlw79)
